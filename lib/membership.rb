@@ -1,7 +1,24 @@
 class Membership
-  attr_reader :cost
+  attr_reader :cost, :gym, :lifter 
 
-  def initialize(cost)
+  @@all = []
+
+  def initialize(cost, gym, lifter)
     @cost = cost
+    @gym = gym
+    @lifter = lifter
+
+    @@all << self
   end
+
+
+  def self.all
+    @@all
+  end
+
+
 end
+
+
+
+# - Get a list of all memberships

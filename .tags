@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+DO YOU EVEN LIFT!?	/Users/manon/Development/code/OO-Get-Swole-london-web-career-031119/README.md	/^# DO YOU EVEN LIFT!?$/;"	function	line:1
+Setup (Code Overview)	/Users/manon/Development/code/OO-Get-Swole-london-web-career-031119/README.md	/^## Setup (Code Overview)$/;"	function	line:5
+Deliverables	/Users/manon/Development/code/OO-Get-Swole-london-web-career-031119/README.md	/^## Deliverables$/;"	function	line:15
+Membership	/Users/manon/Development/code/OO-Get-Swole-london-web-career-031119/lib/membership.rb	/^class Membership$/;"	class	line:1
+initialize	/Users/manon/Development/code/OO-Get-Swole-london-web-career-031119/lib/membership.rb	/^  def initialize(cost)$/;"	method	line:4	class:Membership
+Lifter	/Users/manon/Development/code/OO-Get-Swole-london-web-career-031119/lib/lifter.rb	/^class Lifter$/;"	class	line:1
+initialize	/Users/manon/Development/code/OO-Get-Swole-london-web-career-031119/lib/lifter.rb	/^  def initialize(name, lift_total)$/;"	method	line:4	class:Lifter
+Gym	/Users/manon/Development/code/OO-Get-Swole-london-web-career-031119/lib/gym.rb	/^class Gym$/;"	class	line:1
+initialize	/Users/manon/Development/code/OO-Get-Swole-london-web-career-031119/lib/gym.rb	/^  def initialize(name)$/;"	method	line:4	class:Gym
